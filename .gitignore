@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# Python
+*.pyc
+__pycache__
+venv
+
+# Emacs
+*~
